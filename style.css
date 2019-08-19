@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 800px;
+    margin: auto;
+}
+
+
+ul {
+    list-style: none;
+}
+
+li {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px 0px;
+}
+
+.container {
+    padding: 10px 30px;;
+}
+
+.list-results{
+    padding-left: 0;
+}
+
+.error {
+    color: red;
+}
